@@ -16,6 +16,5 @@ def anil():
 ## Connect me on:
 - LinkedIn: https://www.linkedin.com/in/anil-tharalla-8433101bb/
 - Kaggle: https://www.kaggle.com/tharallaanil
-- Medium: https://medium.com/@aniltharalla
-
+- Medium: https://medium.com/@tharalla.anil555
 _**Note:** Please **do not spam** on the above mentioned profiles._
