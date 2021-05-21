@@ -1,5 +1,6 @@
 ANIL_THARALLA /README.md
 Heyy
+![image](https://user-images.githubusercontent.com/78172275/119183710-18437e00-ba92-11eb-89f4-18bd0d519706.png)
 
 Hi There,  Glad to see you here!
 😎 I'm ANIL THARALLA, Data Scientist  🔰
