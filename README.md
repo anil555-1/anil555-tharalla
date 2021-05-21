@@ -1,3 +1,10 @@
+ANIL_THARALLA /README.md
+Heyy
+
+Hi There,  Glad to see you here!
+😎 I'm ANIL THARALLA, Data Scientist  🔰
+
+
 ## Hey there, I'm Anil Tharalla!
 
 - 💻 I'm looking for **opportunities** in **Data Science and Machine Learning** domain.
